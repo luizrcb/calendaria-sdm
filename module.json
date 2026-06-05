@@ -47,6 +47,9 @@
   ],
   "url": "https://github.com/luizrcb/calendaria-sdm",
   "bugs": "https://github.com/luizrcb/calendaria-sdm/issues",
+  "flags": {
+    "allowBugReporter": true
+  },
   "manifest": "#{MANIFEST}#",
   "download": "#{DOWNLOAD}#",
   "license": "LICENSE",
