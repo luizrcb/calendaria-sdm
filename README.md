@@ -1,4 +1,4 @@
-# Calendaria: SDM
+# Calendaria: WTF
 
 ## Overview
 
@@ -6,11 +6,11 @@ This module enables the Rainbowlands calendar for Calendaria module.
 
 ## Credits
 
-Synthetic Dream Machine (SDM), Ultraviolet Grasslands (UVG), Our Golden Age (OGA), and the Vastlands Guidebook (VLG) are copyright [Luka Rejec](https://patreon.com/wizardthieffighter).
+When Time Fades (WTF), Ultraviolet Grasslands (UVG), Our Golden Age (OGA), and the Vastlands Guidebook (VLG) are copyright [Luka Rejec](https://patreon.com/wizardthieffighter).
 
 ## Acknowledgements
 
-*calendaria-sdm* is an independent production by community contributors, and is not affiliated with [Luka Rejec](https://patreon.com/wizardthieffighter) or [WTF Studio](https://www.wizardthieffighter.com/).
+*calendaria-wtf* is an independent production by community contributors, and is not affiliated with [Luka Rejec](https://patreon.com/wizardthieffighter) or [WTF Studio](https://www.wizardthieffighter.com/).
 
 ## Instalation
 
